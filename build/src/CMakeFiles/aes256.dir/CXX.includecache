@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/noprom/Documents/Dev/C++/OS/Aes256/src/aes256.cpp
+aes256.hpp
+/Users/noprom/Documents/Dev/C++/OS/Aes256/src/aes256.hpp
+iostream
+-
+stdlib.h
+-
+
+/Users/noprom/Documents/Dev/C++/OS/Aes256/src/aes256.hpp
+vector
+-
+
